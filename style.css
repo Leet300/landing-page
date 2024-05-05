@@ -1,0 +1,17 @@
+body{font-family: roboto;}
+
+header{background-color: #1f2937;
+color: white;
+padding-left: 100px;
+padding-right: 100px;
+padding-bottom: 50px;}
+
+nav{display: flex;
+  align-items: center;}
+
+.header1{flex: 3;}
+
+.header2{margin: 5px;}
+
+#header-cont{display: flex;
+align-items: center;}
